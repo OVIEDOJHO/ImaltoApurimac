@@ -1653,7 +1653,7 @@ Los datos del gráfico muestra que 6 integrantes de la familia pueden generar un
 	@
 	\caption{Especies vegetales en extincion}
 	\end{figure}
-	De las especies vegetales en peligrro de extincion, se ha identificado que el especie en peligro pérdida es el pasto, se podría concluir que el sobrepastoreo en la comunidad es la causa principal, así como tambien la escases del agua en la parte alta dificulta realizar activides de riego para estas especies. Seguido de las especies deOqoruro, Tacalafra escasean en la misma proporcion.\\
+	De las especies vegetales en peligro de extinción, se ha identificado el pasto, Tacalafra y Oqoruro, se podría concluir que el sobrepastoreo en la comunidad es la principal causa, así como tambien la escases del agua en la parte alta dificulta realizar activides de riego para estas especies. Seguido de las especies de Oqoruro, Tacalafra escasean en la misma proporcion.\\
 	\\
 	Modificaciones identificadas en la turba de la qocha.
 	\begin{figure}[H]
@@ -1684,7 +1684,7 @@ Los datos del gráfico muestra que 6 integrantes de la familia pueden generar un
 	@
 	\caption{Alteraciones de la turba en la qocha}
 	\end{figure}
-	Se observa que los pobladores identifican que la turba se esta secando y desapareciendo. Lo cual podría afirmar que hay pérdida de los factores que las mantiene como es el caso de a especies que habitan el lugar y el decaimiento de otras especies originales en el lugar\\
+	Se observa que los pobladores identifican que la turba se esta secando y desapareciendo. Lo cual podría afirmar que hay pérdida de los factores que las mantiene como es el caso de las especies que habitan el lugar y el decaimiento de otras especies originarias en el lugar\\
 	\\
 	Alteraciones en la precipitación pluvial en la zona de la qocha
 	\begin{figure}[H]
