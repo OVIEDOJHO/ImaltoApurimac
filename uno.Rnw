@@ -1711,7 +1711,7 @@ Los datos del gráfico muestra que 6 integrantes de la familia pueden generar un
 	@
 	\caption{Alteraciones pluviales en las zonas de qochas}
 	\end{figure}
-	La mayor alteracion pluvial que se ha indetificado es que hay menos lluvias en la zona de las qochas. \\
+	La mayor alteracion pluvial que se ha indetificado es que hay menos lluvias en la zona de las qochas. esto podría indicar que es la cuasa de el actual fenómeno del Niño, lo cual afecta a la producción y alimentación de la poblacion en la comunidad de Chilloroya.\\
 	\\
 	Alteraciones en el suelo en la zona de la qocha
 		\begin{figure}[H]
